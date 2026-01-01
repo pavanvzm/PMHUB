@@ -1,0 +1,38 @@
+[
+  {
+    "category": "User Stories",
+    "title": "User Story Template",
+    "description": "Write clear, actionable user stories with acceptance criteria",
+    "rawUrl": "https://raw.githubusercontent.com/deanpeters/product-manager-prompts/main/prompts/user-story-template.md"
+  },
+  {
+    "category": "Customer Research",
+    "title": "Jobs-to-be-Done Interview Guide",
+    "description": "Uncover real customer motivations beyond surface requests",
+    "rawUrl": "https://raw.githubusercontent.com/deanpeters/product-manager-prompts/main/prompts/jobs-to-be-done.md"
+  },
+  {
+    "category": "Roadmapping",
+    "title": "Quarterly Roadmap Prioritization",
+    "description": "Align themes, outcomes, and initiatives for the next quarter",
+    "rawUrl": "https://raw.githubusercontent.com/deanpeters/product-manager-prompts/main/prompts/roadmap-prioritization.md"
+  },
+  {
+    "category": "Stakeholder Comms",
+    "title": "Stakeholder Update Template",
+    "description": "Concise, outcome-focused status updates for execs and teams",
+    "rawUrl": "https://raw.githubusercontent.com/deanpeters/product-manager-prompts/main/prompts/stakeholder-update.md"
+  },
+  {
+    "category": "Discovery",
+    "title": "Opportunity Solution Tree",
+    "description": "Map customer needs to potential solutions visually",
+    "rawUrl": "https://raw.githubusercontent.com/deanpeters/product-manager-prompts/main/prompts/opportunity-solution-tree.md"
+  },
+  {
+    "category": "Metrics",
+    "title": "North Star Metric Definition",
+    "description": "Define your product’s core value metric and how to measure it",
+    "rawUrl": "https://raw.githubusercontent.com/deanpeters/product-manager-prompts/main/prompts/north-star-metric.md"
+  }
+]
